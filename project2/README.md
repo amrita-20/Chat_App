@@ -1,4 +1,4 @@
-# Project 2 - JS Chat
+# Chat Web App
 
 A Single Page Application (SPA) developed using Javascript, Node.js, HTML and CSS that leverages RESTful services for a straightforward and efficient chat experience. Users can seamlessly participate in a shared chat forum where all messages, and list of users, are visible to logged-in users. The application provides a user-friendly interface for an intuitive and collaborative chat environment.
 
